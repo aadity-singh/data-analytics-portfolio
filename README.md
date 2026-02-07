@@ -39,7 +39,7 @@ https://github.com/aadity-singh/data-analytics-portfolio
 - Built pivot-based reports to support sales planning decisions
 
 **Impact**
-- Highlighted Q4 as the strongest revenue-driving period
+- Highlighted Q4 as the strongest revenue-driving period, contributing ~35–40% of annual sales
 - Enabled demand planning through month-level insights
 
 🔗 **Project Repository:**  
@@ -51,12 +51,12 @@ https://github.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-
 **End-to-end SQL analytics case study**
 
 - Designed **analytics-ready schema** using fact–dimension modeling
-- Built **25+ business-driven SQL queries**
+- Built 25+ production-style SQL queries for business analysis
 - Analyzed revenue growth, customer behavior, seller performance, and delivery efficiency
 - Applied **CTEs & window functions** for RFM, CLV, cohort, and churn analysis
 
 **Impact**
-- Identified high-value customer segments
+- Identified high-value customer segments contributing ~30%+ of total revenue
 - Highlighted top sellers contributing disproportionate revenue
 
 🔗 **Project Repository:**  
@@ -88,7 +88,7 @@ https://github.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashb
 - Built dashboard supporting operational decision-making
 
 **Impact**
-- Identified peak travel quarters for capacity optimization
+- Identified peak travel quarters accounting for the highest passenger volumes
 - Highlighted high-density origin airports
 
 🔗 **Project Repository:**  
@@ -104,7 +104,7 @@ These projects demonstrate **analytics + machine learning** used strictly for
 ---
 
 ### 👥 Customer Intelligence – Customer Categorizer
-- Segmented customers into **value tiers** using behavioral data
+- Segmented customers into value tiers, highlighting a small high-value group driving a majority of revenue
 - Applied **SHAP explainability** to justify classifications
 - Deployed a production-ready analytics API
 
@@ -123,7 +123,7 @@ https://github.com/aadity-singh/customer-categorizer-api
 - Deployed analytics-driven API for retention decision support
 
 **Business Value**
-- Identifies high-risk customers early
+- Identifies high-risk customers early, enabling proactive retention interventions
 - Supports proactive churn reduction strategies
 
 🔗 **Project Repository (code & documentation):**  
