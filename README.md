@@ -8,7 +8,7 @@ This portfolio reflects how **data analysts operate in real organizations**:
 answering business questions, defining KPIs, and communicating insights clearly.
 
 🔗 **Complete Portfolio (GitHub):**  
-https://github.com/your-username/data-analytics-portfolio
+https://github.com/aadity-singh/data-analytics-portfolio
 
 ---
 
