@@ -7,6 +7,9 @@ decision-support analytics.
 This portfolio reflects how **data analysts operate in real organizations**:
 answering business questions, defining KPIs, and communicating insights clearly.
 
+🔗 **Complete Portfolio (GitHub):**  
+https://github.com/your-username/data-analytics-portfolio
+
 ---
 
 ## 🧠 Core Competencies
@@ -39,7 +42,8 @@ answering business questions, defining KPIs, and communicating insights clearly.
 - Highlighted Q4 as the strongest revenue-driving period
 - Enabled demand planning through month-level insights
 
-📁 `Amazon_Sales_Excel_Analysis`
+🔗 **Project Repository:**  
+https://github.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-
 
 ---
 
@@ -48,18 +52,15 @@ answering business questions, defining KPIs, and communicating insights clearly.
 
 - Designed **analytics-ready schema** using fact–dimension modeling
 - Built **25+ business-driven SQL queries**
-- Analyzed:
-  - Revenue growth & seasonality
-  - Customer behavior & repeat purchases
-  - Seller performance & delivery efficiency
-- Applied **CTEs & window functions** for advanced analysis
-  (RFM, CLV, cohorts, churn)
+- Analyzed revenue growth, customer behavior, seller performance, and delivery efficiency
+- Applied **CTEs & window functions** for RFM, CLV, cohort, and churn analysis
 
 **Impact**
 - Identified high-value customer segments
 - Highlighted top sellers contributing disproportionate revenue
 
-📁 `E_Commerce_SQL_Analytics`
+🔗 **Project Repository:**  
+https://github.com/aadity-singh/olist-ecommerce-sql-analytics
 
 ---
 
@@ -67,17 +68,15 @@ answering business questions, defining KPIs, and communicating insights clearly.
 **FinTech & digital payments analytics**
 
 - Analyzed **₹121T+ transaction value** across India (2018–2022)
-- Built interactive dashboard tracking:
-  - Transaction growth
-  - Regional adoption
-  - Payment type contribution
-- Used geographic analysis to surface state-level insights
+- Built interactive dashboard tracking transaction growth, regional adoption, and payment types
+- Performed geographic analysis to surface state-level insights
 
 **Impact**
 - Identified top 3 states contributing ~46% of total value
 - Highlighted dominance of UPI (~72% share)
 
-📁 `PhonePe_Digital_Payments_Analysis`
+🔗 **Project Repository:**  
+https://github.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashboard
 
 ---
 
@@ -85,35 +84,36 @@ answering business questions, defining KPIs, and communicating insights clearly.
 **Operations & capacity planning analytics**
 
 - Analyzed airline passenger and flight operations data
-- Evaluated:
-  - Year-wise passenger growth
-  - Quarter-wise demand patterns
-  - Airport-level passenger density
-- Built dashboard supporting operational decisions
+- Evaluated year-wise growth, quarter-wise demand, and airport-level density
+- Built dashboard supporting operational decision-making
 
 **Impact**
 - Identified peak travel quarters for capacity optimization
 - Highlighted high-density origin airports
 
-📁 `Airline_Operations_Analytics`
+🔗 **Project Repository:**  
+https://github.com/aadity-singh/Airline-Operations-and-Analysis-Dashboard
 
 ---
 
-## 🧠 Advanced Analytics & Decision Support (Differentiator)
+## 🧠 Advanced Analytics & Decision Support
 
 These projects demonstrate **analytics + machine learning** used strictly for
 **business decision support**, not academic modeling.
 
+---
+
 ### 👥 Customer Intelligence – Customer Categorizer
 - Segmented customers into **value tiers** using behavioral data
-- Applied **explainable analytics (SHAP)** to justify classifications
+- Applied **SHAP explainability** to justify classifications
 - Deployed a production-ready analytics API
 
 **Business Value**
 - Supports targeted marketing & retention strategies
-- Enables transparency in customer segmentation decisions
+- Enables transparent customer segmentation decisions
 
-📁 `Advanced_Analytics_Customer_Intelligence`
+🔗 **Project Repository (code, API docs & screenshots):**  
+https://github.com/aadity-singh/customer-categorizer-api
 
 ---
 
@@ -126,7 +126,8 @@ These projects demonstrate **analytics + machine learning** used strictly for
 - Identifies high-risk customers early
 - Supports proactive churn reduction strategies
 
-📁 `Telecom_Churn_Analytics`
+🔗 **Project Repository (code & documentation):**  
+https://github.com/aadity-singh/telecom-churn-prediction-api
 
 ---
 
