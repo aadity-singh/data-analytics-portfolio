@@ -168,17 +168,16 @@ generation and executive report summarisation. Repository will be linked here on
 # 💼 Freelance Services
 Available for contract and consulting engagements:
 
-Dashboard & reporting builds — Power BI / Excel dashboards tailored to your KPIs
-SQL analytics — schema design, query optimisation, RFM / cohort / churn analysis
-EDA & business reports — Python-based data exploration with executive summaries
-Customer segmentation — value-tier analysis with explainable classifications
-AI-assisted reporting — LLM-powered narrative generation for data reports 
-Ad hoc analysis — one-off deep dives to answer specific business questions
+**Dashboard & reporting builds** — Power BI / Excel dashboards tailored to your KPIs
+**SQL analytics** — schema design, query optimisation, RFM / cohort / churn analysis
+**EDA & business reports** — Python-based data exploration with executive summaries
+**Customer segmentation** — value-tier analysis with explainable classifications
+**AI-assisted reporting** — LLM-powered narrative generation for data reports 
+**Ad hoc analysis** — one-off deep dives to answer specific business questions
 
 Typical clients: startups, SMEs, and product teams needing analytics support without a full-time hire.
-📧 Reach out at aaditysingh612@gmail.com\
 
-to discuss your project.  
+📧 Reach out at aaditysingh612@gmail.com to discuss your project.  
 
 ## 🎯 Portfolio Philosophy
 
