@@ -7,6 +7,26 @@ decision-support analytics.
 This portfolio reflects how **data analysts operate in real organizations**:
 answering business questions, defining KPIs, and communicating insights clearly.
 
+Open to full-time Data Analyst / Business Analyst roles and freelance analytics engagements.
+
+# 👨‍💻 About Me
+
+
+Aadity Singh — Data Analyst with cross-industry experience in e-commerce, FinTech, telecom, and
+airline analytics. I work end-to-end: from raw data and SQL-driven exploration to executive dashboards
+and actionable business recommendations.
+
+My work spans Excel, SQL, Power BI, and Python — with a focus on turning messy data into clear
+decisions, not just pretty visuals. I've worked across datasets ranging from digital payments
+(₹121T+ in transaction value) to customer churn and segmentation systems.
+
+Recently expanded into Generative AI, applying LLMs to analytics workflows and decision support.
+
+Based in India · Open to Data Analyst / Business Analyst roles & freelance projects
+
+📧 aaditysingh612@gmail.com  
+🔗 https://www.linkedin.com/in/aaditysingh06/
+
 🔗 **Complete Portfolio (GitHub):**  
 https://github.com/aadity-singh/data-analytics-portfolio
 
@@ -26,7 +46,7 @@ https://github.com/aadity-singh/data-analytics-portfolio
 - **Power BI**: DAX, data modeling, interactive dashboards
 - **Python**: Pandas, EDA, analytics workflows
 - **Advanced Analytics**: Customer segmentation, churn analysis, SHAP explainability
-
+- **Generative AI**: Prompt engineering, LLM-assisted analytics workflows, AI-augmented reporting
 ---
 
 ## 📂 Selected Analytics Projects
@@ -38,6 +58,8 @@ https://github.com/aadity-singh/data-analytics-portfolio
 - Identified **seasonality, peak months, and revenue trends**
 - Built pivot-based reports to support sales planning decisions
 
+**Scope**: 6-year dataset (2019–2024), monthly granularity across product categories
+  
 **Impact**
 - Highlighted Q4 as the strongest revenue-driving period, contributing ~35–40% of annual sales
 - Enabled demand planning through month-level insights
@@ -87,6 +109,8 @@ https://github.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashb
 - Evaluated year-wise growth, quarter-wise demand, and airport-level density
 - Built dashboard supporting operational decision-making
 
+**Scope**: Multi-year passenger and flight operations dataset across major Indian airports
+
 **Impact**
 - Identified peak travel quarters accounting for the highest passenger volumes
 - Highlighted high-density origin airports
@@ -96,10 +120,10 @@ https://github.com/aadity-singh/Airline-Operations-and-Analysis-Dashboard
 
 ---
 
-## 🧠 Advanced Analytics & Decision Support
+## 🧠 Advanced Analytics, AI & Decision Support
 
-These projects demonstrate **analytics + machine learning** used strictly for
-**business decision support**, not academic modeling.
+These projects demonstrate **analytics, machine learning, and generative AI**used strictly for **business
+decision support** — not academic modelling..
 
 ---
 
@@ -107,6 +131,8 @@ These projects demonstrate **analytics + machine learning** used strictly for
 - Segmented customers into value tiers, highlighting a small high-value group driving a majority of revenue
 - Applied **SHAP explainability** to justify classifications
 - Deployed a production-ready analytics API
+
+**Scope**: Transactional customer dataset with multi-feature segmentation across purchase behaviour signals
 
 **Business Value**
 - Supports targeted marketing & retention strategies
@@ -131,6 +157,29 @@ https://github.com/aadity-singh/telecom-churn-prediction-api
 
 ---
 
+# 🤖 AI-Assisted Analytics (Coming Soon)
+Generative AI applied to analytics reporting
+
+Currently building a project integrating LLMs into analytics workflows for automated insight
+generation and executive report summarisation. Repository will be linked here on completion.
+
+---
+
+# 💼 Freelance Services
+Available for contract and consulting engagements:
+
+Dashboard & reporting builds — Power BI / Excel dashboards tailored to your KPIs
+SQL analytics — schema design, query optimisation, RFM / cohort / churn analysis
+EDA & business reports — Python-based data exploration with executive summaries
+Customer segmentation — value-tier analysis with explainable classifications
+AI-assisted reporting — LLM-powered narrative generation for data reports 
+Ad hoc analysis — one-off deep dives to answer specific business questions
+
+Typical clients: startups, SMEs, and product teams needing analytics support without a full-time hire.
+📧 Reach out at aaditysingh612@gmail.com\
+
+to discuss your project.  
+
 ## 🎯 Portfolio Philosophy
 
 - Business-first analytics
@@ -138,20 +187,14 @@ https://github.com/aadity-singh/telecom-churn-prediction-api
 - Insights over visuals
 - Decisions over dashboards
 
-This portfolio is designed for **Data Analyst / Business Analyst roles**,
-with additional exposure to **advanced analytics and ML-enabled insights**.
+This portfolio is designed for **Data Analyst / Business Analyst roles**, with additional exposure to
+**advanced analytics, ML-enabled insights, and applied Generative AI**.
 
 ---
 
-## 👨‍💻 About Me
-
-**Aadity Singh**  
-Data Analyst | Analytics-driven problem solver  
-
-Interested in roles involving:
-- Data analysis & reporting
-- SQL-driven insights
-- Dashboarding & BI
-- Business decision support
-
-⭐ Feel free to explore the projects and review the analyses.
+📬 Let's Connect
+If you're hiring for a Data Analyst role, or have a freelance analytics project in mind, I'd love
+to hear from you.
+📧 aaditysingh612@gmail.com   
+🔗 https://www.linkedin.com/in/aaditysingh06/      
+⭐ If something here is useful, a star on the repo is always appreciated!
