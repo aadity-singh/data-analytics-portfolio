@@ -143,7 +143,7 @@ decision support** — not academic modelling..
 
 Data-driven customer segmentation system that classifies users into value tiers using machine learning.  
 Built an end-to-end pipeline from data processing to model deployment as a FastAPI service.
----
+
 
 ### 📊 ML API Interface (Swagger UI)
 <p align="center">
@@ -186,14 +186,52 @@ https://github.com/aadity-singh/customer-categorizer-api
 
 ---
 
-### 📡 Telecom Customer Churn Analysis & Prediction
+## 📡 Telecom Customer Churn Analysis & Prediction
+
+End-to-end machine learning system to predict customer churn and identify key factors driving customer attrition.  
+Built a complete pipeline from data preprocessing to model deployment as a FastAPI service.
+
+---
+
+### 📊 ML API Interface (Swagger UI)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/telecom-churn-prediction-api/main/screenshots/swagger_home.png" width="700"/>
+</p>
+
+### 📊 Prediction Output (Churn Classification)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/telecom-churn-prediction-api/main/screenshots/predict_request_response.png" width="700"/>
+</p>
+
+### 📊 Explainability (Key Churn Drivers)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/telecom-churn-prediction-api/main/screenshots/explain_request_response.png" width="700"/>
+</p>
+
+---
+
+🚀 **Deployed ML API** with real-time churn prediction and explainability endpoints.
+
+### ⚙️ Approach & Operations Performed
+- Data preprocessing (handling missing values, encoding categorical variables, scaling)  
+- Feature engineering based on customer usage, billing, and service patterns  
+- Built classification model to predict churn probability  
+- Evaluated model using classification metrics (accuracy, precision, recall)  
+- Applied SHAP for model explainability and feature importance  
+- Developed FastAPI-based REST API for predictions and explanations  
+- Tested API endpoints using Swagger UI  
+
+---
+
+### 💼 Business Value
+- Identifies customers at high risk of churn  
+- Enables proactive retention strategies  
+- Highlights key factors influencing churn decisions  
+- Supports data-driven customer lifecycle management  
 - Analyzed telecom customer behavior to identify churn drivers
 - Built churn prediction system with **explainable insights**
 - Deployd analytics-driven API for retention decision support
 
-**Business Value**
-- Identifies high-risk customers early, enabling proactive retention interventions
-- Supports proactive churn reduction strategies
 
 🔗 **Project Repository (code & documentation):**  
 https://github.com/aadity-singh/telecom-churn-prediction-api
