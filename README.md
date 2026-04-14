@@ -140,9 +140,49 @@ decision support** — not academic modelling..
 ---
 
 ### 👥 Customer Intelligence – Customer Categorizer
-- Segmented customers into value tiers, highlighting a small high-value group driving a majority of revenue
-- Applied **SHAP explainability** to justify classifications
-- Deployed a production-ready analytics API
+<h2>👥 Customer Intelligence – Customer Categorizer</h2>
+
+<p>
+Data-driven customer segmentation system that classifies users into value tiers using machine learning.
+Built an end-to-end pipeline from data processing to model deployment as a FastAPI service.
+</p>
+
+<p>
+🚀 <b>Deployed ML API</b> with real-time prediction and explainability endpoints using FastAPI.
+</p>
+
+<hr>
+
+<h3>📊 ML API Interface (Swagger UI)</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/01_api_overview.png" width="750"/>
+</p>
+<p align="center"><i>Interactive API interface for testing prediction and explainability endpoints</i></p>
+
+<hr>
+
+<h3>📊 Prediction Output (Customer Segmentation)</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/02_predict_response.png" width="750"/>
+</p>
+<p align="center"><i>Model classifies customers into value segments (e.g., Low Value, High Value)</i></p>
+
+<hr>
+
+<h3>📊 Explainability (Top Feature Drivers)</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/04_explain_response.png" width="750"/>
+</p>
+<p align="center"><i>SHAP-based feature importance showing key drivers behind predictions</i></p>
+
+<hr>
+
+<h3>💼 Business Value</h3>
+<ul>
+  <li>Identifies high-value customers driving majority of revenue</li>
+  <li>Supports targeted marketing and retention strategies</li>
+  <li>Provides transparent, explainable AI for decision-making</li>
+</ul>
 
 **Scope**: Transactional customer dataset with multi-feature segmentation across purchase behaviour signals
 
