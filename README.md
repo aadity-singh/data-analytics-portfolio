@@ -52,7 +52,9 @@ https://github.com/aadity-singh/data-analytics-portfolio
 ## 📂 Selected Analytics Projects
 
 ### 📈 Amazon Sales Performance Analysis (Excel)
-        ![Amazon Sales Dashboard](Amazon Sales Dashboard SS.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-/main/Amazon%20Sales%20Dashboard%20SS.png" width="700"/>
+</p>
 **Sales analytics & business reporting**
  
 - Analyzed **2019–2024 Amazon sales data**
