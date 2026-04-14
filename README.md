@@ -90,6 +90,9 @@ https://github.com/aadity-singh/olist-ecommerce-sql-analytics
 ---
 
 ### 💳 PhonePe Digital Payments Analysis (Power BI)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashboard/main/dashboard%20screenshot/Dashboard%20Screenshot.png" width="700"/>
+</p>
 **FinTech & digital payments analytics**
 
 - Analyzed **₹121T+ transaction value** across India (2018–2022)
