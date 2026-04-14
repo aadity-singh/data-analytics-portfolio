@@ -55,6 +55,7 @@ https://github.com/aadity-singh/data-analytics-portfolio
 <p align="center">
   <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-/main/Amazon%20Sales%20Dashboard%20SS.png" width="700"/>
 </p>
+
 **Sales analytics & business reporting**
  
 - Analyzed **2019–2024 Amazon sales data**
@@ -93,6 +94,7 @@ https://github.com/aadity-singh/olist-ecommerce-sql-analytics
 <p align="center">
   <img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashboard/main/Phonepe%20Digital%20Transaction/dashboard%20screenshot/Dashboard%20Screenshot.png" width="700"/>
 </p>
+
 **FinTech & digital payments analytics**
 
 - Analyzed **₹121T+ transaction value** across India (2018–2022)
@@ -109,6 +111,10 @@ https://github.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashb
 ---
 
 ### ✈️ Airline Operations & Passenger Analytics (Power BI)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/Airline-Operations-and-Analysis-Dashboard/main/Airline%20Operations%20and%20Analysis%20Dashboard/dasboard%20image/Screenshot%202025-09-12%20002254.png" width="700"/>
+</p>
+
 **Operations & capacity planning analytics**
 
 - Analyzed airline passenger and flight operations data
