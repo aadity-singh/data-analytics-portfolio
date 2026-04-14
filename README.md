@@ -139,56 +139,47 @@ decision support** — not academic modelling..
 
 ---
 
-### 👥 Customer Intelligence – Customer Categorizer
-<h2>👥 Customer Intelligence – Customer Categorizer</h2>
+## 👥 Customer Intelligence – Customer Categorizer
 
-<p>
-Data-driven customer segmentation system that classifies users into value tiers using machine learning.
+Data-driven customer segmentation system that classifies users into value tiers using machine learning.  
 Built an end-to-end pipeline from data processing to model deployment as a FastAPI service.
-</p>
+---
 
-<p>
-🚀 <b>Deployed ML API</b> with real-time prediction and explainability endpoints using FastAPI.
-</p>
-
-<hr>
-
-<h3>📊 ML API Interface (Swagger UI)</h3>
+### 📊 ML API Interface (Swagger UI)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/01_api_overview.png" width="750"/>
+  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/01_api_overview.png" width="700"/>
 </p>
-<p align="center"><i>Interactive API interface for testing prediction and explainability endpoints</i></p>
 
-<hr>
-
-<h3>📊 Prediction Output (Customer Segmentation)</h3>
+### 📊 Prediction Output (Customer Segmentation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/02_predict_response.png" width="750"/>
+  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/02_predict_response.png" width="700"/>
 </p>
-<p align="center"><i>Model classifies customers into value segments (e.g., Low Value, High Value)</i></p>
 
-<hr>
-
-<h3>📊 Explainability (Top Feature Drivers)</h3>
+### 📊 Explainability (Top Feature Drivers)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/04_explain_response.png" width="750"/>
+  <img src="https://raw.githubusercontent.com/aadity-singh/customer-categorizer-api/main/screenshots/04_explain_response.png" width="700"/>
 </p>
-<p align="center"><i>SHAP-based feature importance showing key drivers behind predictions</i></p>
 
-<hr>
+---
 
-<h3>💼 Business Value</h3>
-<ul>
-  <li>Identifies high-value customers driving majority of revenue</li>
-  <li>Supports targeted marketing and retention strategies</li>
-  <li>Provides transparent, explainable AI for decision-making</li>
-</ul>
+🚀 **Deployed ML API** with real-time prediction and explainability endpoints.
 
+### ⚙️ Approach & Operations Performed
+- Data preprocessing (missing values, encoding, scaling)  
+- Feature engineering based on customer behaviour  
+- ML model building for classification  
+- Model evaluation using classification metrics  
+- SHAP-based explainability  
+- FastAPI deployment for prediction & explanation  
+- API testing using Swagger UI  
+
+
+### 💼 Business Value
+- Identifies high-value customers driving revenue  
+- Supports targeted marketing and retention strategies  
+- Enables explainable AI for decision-making  
 **Scope**: Transactional customer dataset with multi-feature segmentation across purchase behaviour signals
 
-**Business Value**
-- Supports targeted marketing & retention strategies
-- Enables transparent customer segmentation decisions
 
 🔗 **Project Repository (code, API docs & screenshots):**  
 https://github.com/aadity-singh/customer-categorizer-api
@@ -198,7 +189,7 @@ https://github.com/aadity-singh/customer-categorizer-api
 ### 📡 Telecom Customer Churn Analysis & Prediction
 - Analyzed telecom customer behavior to identify churn drivers
 - Built churn prediction system with **explainable insights**
-- Deployed analytics-driven API for retention decision support
+- Deployd analytics-driven API for retention decision support
 
 **Business Value**
 - Identifies high-risk customers early, enabling proactive retention interventions
