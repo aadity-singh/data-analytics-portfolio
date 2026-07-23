@@ -55,10 +55,10 @@ https://github.com/aadity-singh/data-analytics-portfolio
 
 Interactive **Excel dashboard** analyzing **₹32M+ sales** (2019–2024) to monitor revenue, profitability, product performance, and regional trends.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Dashboard-Excel/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Dashboard-Excel/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png" width="58%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Dashboard-Excel/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_Insights_Table.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Dashboard-Excel/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_Insights_Table.png" width="58%"/>
 </p>
 
 ### Highlights
@@ -99,8 +99,8 @@ https://github.com/aadity-singh/olist-ecommerce-sql-analytics
 Interactive **two-page Power BI dashboard** analyzing **₹121.41 Trillion** in digital payment transactions across India (2018–2022), delivering executive reporting, business intelligence, and strategic market insights.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Intelligence-Hub-PowerBI/main/Executive_Overview.png" width="48%">
-<img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Intelligence-Hub-PowerBI/main/Business_Intelligence.png" width="48%">
+<img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Intelligence-Hub-PowerBI/main/Executive_Overview.png" width="58%">
+<img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Intelligence-Hub-PowerBI/main/Business_Intelligence.png" width="58%">
 </p>
 
 ### Highlights
