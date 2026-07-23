@@ -51,24 +51,27 @@ https://github.com/aadity-singh/data-analytics-portfolio
 
 ## 📂 Selected Analytics Projects
 
-### 📈 Amazon Sales Performance Analysis (Excel)
+# 📈 Amazon Sales Performance Dashboard (Excel)
+
+Interactive **Excel dashboard** analyzing **₹32M+ sales** (2019–2024) to monitor revenue, profitability, product performance, and regional trends.
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-/main/Amazon%20Sales%20Dashboard%20SS.png" width="700"/>
+<img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png" width="48%">
+<img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_Insights_Table.png" width="48%">
 </p>
 
-**Sales analytics & business reporting**
- 
-- Analyzed **2019–2024 Amazon sales data**
-- Identified **seasonality, peak months, and revenue trends**
-- Built pivot-based reports to support sales planning decisions
+### Highlights
+- 📊 Executive KPI Dashboard
+- 📈 Sales & Profit Trend Analysis
+- 🛍 Product & Regional Performance
+- 🎯 Interactive Slicers & Business Insights
 
-**Scope**: 6-year dataset (2019–2024), monthly granularity across product categories
-  
-**Impact**
-- Highlighted Q4 as the strongest revenue-driving period, contributing ~35–40% of annual sales
-- Enabled demand planning through month-level insights
+**Business Impact**
+- Identified high-growth products and declining SKUs.
+- Revealed top-performing regions for revenue optimization.
+- Supported inventory and sales planning.
 
-🔗 **Project Repository:**  
+🔗 **Repository:**  
 https://github.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-
 
 ---
@@ -90,23 +93,28 @@ https://github.com/aadity-singh/olist-ecommerce-sql-analytics
 
 ---
 
-### 💳 PhonePe Digital Payments Analysis (Power BI)
+# 💳 PhonePe Business Intelligence & Payment Analytics (Power BI)
+
+Interactive **two-page Power BI dashboard** analyzing **₹121.41 Trillion** in digital payment transactions across India (2018–2022), delivering executive reporting, business intelligence, and strategic market insights.
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashboard/main/Phonepe%20Digital%20Transaction/dashboard%20screenshot/Dashboard%20Screenshot.png" width="700"/>
+<img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Intelligence-Hub-PowerBI/main/Executive_Overview.png" width="48%">
+<img src="https://raw.githubusercontent.com/aadity-singh/PhonePe-Intelligence-Hub-PowerBI/main/Business_Intelligence.png" width="48%">
 </p>
 
-**FinTech & digital payments analytics**
+### Highlights
+- 📊 Executive & Business Intelligence Dashboards
+- 📈 Transaction Growth & Regional Analysis
+- 🎯 Opportunity Matrix & Heatmap
+- 🌳 Decomposition Tree & Strategic Recommendations
 
-- Analyzed **₹121T+ transaction value** across India (2018–2022)
-- Built interactive dashboard tracking transaction growth, regional adoption, and payment types
-- Performed geographic analysis to surface state-level insights
+**Business Impact**
+- Identified **Top 3 states contributing ~46%** of total transaction value.
+- Highlighted **Southern Region (~39.7%)** as the leading contributor.
+- Uncovered high-growth opportunities for business expansion.
 
-**Impact**
-- Identified top 3 states contributing ~46% of total value
-- Highlighted dominance of UPI (~72% share)
-
-🔗 **Project Repository:**  
-https://github.com/aadity-singh/PhonePe-Digital-Transaction-2018-22-Report-Dashboard
+🔗 **Repository:**  
+https://github.com/aadity-singh/PhonePe-Intelligence-Hub-PowerBI
 
 ---
 
