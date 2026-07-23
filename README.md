@@ -55,7 +55,10 @@ https://github.com/aadity-singh/data-analytics-portfolio
 
 Interactive **Excel dashboard** analyzing **₹32M+ sales** (2019–2024) to monitor revenue, profitability, product performance, and regional trends.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Performance-Dashboard-Excel-/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png" width="85%"/>
+  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Dashboard-Excel/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_KPIs_Charts.png" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadity-singh/Amazon-Sales-Dashboard-Excel/main/Amazon%20Sales%20Performance%20Dashboard/Amazon_Sales_Dashboard_2019_2024/Amazon_Sales_Dashboard_Insights_Table.png" width="48%"/>
 </p>
 
 ### Highlights
